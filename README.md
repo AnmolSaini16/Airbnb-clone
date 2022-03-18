@@ -1,5 +1,5 @@
 # Airbnb Clone
-### Made using React and material ui: https://airbnb-clone-6ad47.web.app/
+### Made using React and material ui: https://anmolsaini16.github.io/Airbnb-clone/
 ____________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/72123368/158056651-9ffd34df-d2f9-4580-a8da-0ec79bcff11a.png)
 
